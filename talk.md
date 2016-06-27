@@ -15,6 +15,8 @@ Geovoluntariado con HOT: ayudando al mundo a través de la cartografía
 > humanitaria y el desarrollo económico
 
 
+___
+
 ## El mejor mapa de Puerto Principe
 
 | ![Antes](resources/osm_pap_before.jpg) | ![Después](resources/osm_pap_after.jpg) |
@@ -22,11 +24,18 @@ Geovoluntariado con HOT: ayudando al mundo a través de la cartografía
 | OSM, 12 de enero, 2010                 | 28 días después                         |
 
 
+___
+
+
 ## Puente cartográfico
 
 ONG creada en agosto de 2010
 
 ![Puente](resources/osm_bridge.png)
+
+
+
+___
 
 ## Parte de la Red Humanitaria Digital
 
