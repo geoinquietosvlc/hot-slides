@@ -5,7 +5,7 @@ Geovoluntariado con HOT: ayudando al mundo a través de la cartografía
 
 * Jorge Sanz
 * Pedro-Juan Ferrer
-* 2016-06-29
+* UPV - 2016-06-29
 
 ---
 
@@ -14,7 +14,6 @@ Geovoluntariado con HOT: ayudando al mundo a través de la cartografía
 > Los datos libres y abiertos son tremendamente beneficiosos para la ayuda
 > humanitaria y el desarrollo económico
 
----
 
 ## El mejor mapa de Puerto Principe
 
@@ -22,12 +21,14 @@ Geovoluntariado con HOT: ayudando al mundo a través de la cartografía
 | :---:                                  | :---:                                   |
 | OSM, 12 de enero, 2010                 | 28 días después                         |
 
----
 
 ## Puente cartográfico
 
 ONG creada en agosto de 2010
 
+![Puente](resources/osm_bridge.png)
 
+## Parte de la Red Humanitaria Digital
 
+![Interaction](resources/osm_interaction.png)
 
