@@ -23,13 +23,30 @@
 
 ___
 
+## Enero 2010
+
+![video](resources/haiti-video.png)<!-- .element style="width:70%" -->
+
+https://vimeo.com/9182869
+___
+
+![](resources/haiti-01.png)
+___
+
+![](resources/haiti-02.png)
+___
+
+![](resources/haiti-03.png)
+___
+
+![](resources/haiti-04.png)
+___
+
 ## El mejor mapa de Puerto Principe
 
-| ![Antes](resources/osm_pap_before.jpg) | ![Después](resources/osm_pap_after.jpg)  <!-- .element: class="fragment" -->|
-| :---:                                  | :---:                                   |
-| OSM, 12 de enero, 2010                 | 28 días después                         |
+![](resources/haiti-05.png)
 
-___
+---
 
 ## Puente cartográfico
 
@@ -82,10 +99,8 @@ ___
 
 ![comunidad](resources/osm_community.png)
 
-
 ---
 
-## Missing Map
+![missing map](resources/osm_missing.png)<!-- .element style="width:55%" -->
 
-![missing map](resources/osm_missing.png)
-
+![missing map](resources/missing-maps.png)<!-- .element style="width:55%" -->
