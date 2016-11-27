@@ -10,7 +10,7 @@
 <ul>
   <li> Jorge Sanz </li>
   <li> Pedro-Juan Ferrer </li>
-  <li> UPV - 2016-06-29 </li>
+  <li> UPV - 2016-11-30 </li>
 </ul>
 </div>
 
@@ -30,6 +30,11 @@ ___
 https://vimeo.com/9182869
 ___
 
+![](resources/haiti-00.png)
+
+12 de enero de 2010
+___
+
 ![](resources/haiti-01.png)
 ___
 
@@ -40,11 +45,14 @@ ___
 ___
 
 ![](resources/haiti-04.png)
+
 ___
 
-## El mejor mapa de Puerto Principe
+## El mejor mapa<br/> de Puerto Principe
 
 ![](resources/haiti-05.png)
+
+28 días después
 
 ---
 
